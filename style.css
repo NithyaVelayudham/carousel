@@ -1,0 +1,51 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.card{
+    width: 50rem; 
+    height: 30rem;
+padding: 10px 20px;
+line-height: 20px;
+align-items: center;
+}
+.card-title{
+    color: darkmagenta;
+}
+.card-header img{
+    height: 100px;
+    width: 150px;
+    padding-right: 15px;
+    }
+    .card-header{
+       text-align: center;
+    }
+.card img{
+    height: 100px;
+   padding: 5px 5px;
+   }
+   .card-body{
+    text-align: center;
+    align-items: center;
+   }
+   .carousel img{
+    margin-top: 5rem;
+    height: 20rem;
+    width: 50rem;
+    align-items: center;
+    text-align: center;
+   }
+  #mycarousel{
+    width: 50rem;
+    height: 30rem;
+    align-content: center;
+    margin-left: 30rem;
+  }
+  .carousel-caption{
+    text-align: center;
+    margin-top: 20rem;
+    align-content: flex-start;
+  }
+  
